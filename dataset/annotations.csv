@@ -1,0 +1,225 @@
+image_filename,expected_output,category
+img1.jpg,"1. Ukloni plavi blok.
+2. Ukloni crveni blok.
+3. Ukloni zeleni blok.",pospremanje
+img2.jpg,"1. Ukloni ružičasti blok.
+2. Ukloni zeleni blok.
+3. Ukloni plavi blok.
+4. Ukloni narančasti blok.
+5. Ukloni žuti blok.",pospremanje
+img3.png,"1. Ukloni zeleni blok.
+2. Ukloni plavi blok.
+3. Ukloni žuti blok.",pospremanje
+img4.jpeg,"1. razina: Postavi smeđi blok. Postavi zeleni blok.
+2. razina: Postavi plavi blok vodoravno.
+3. razina: Postavi svijetloplavi blok okomito.",spajanje
+img5.jpg,"1. Ukloni plavi blok.
+2. Ukloni ružičasti blok.
+3. Ukloni zeleni blok.",pospremanje
+img6.jpg,"1. Ukloni narančasti blok.
+2. Ukloni narančasti blok.
+3. Ukloni ljubičasti blok.
+4. Ukloni svijetloplaviplavi blok.
+5. Ukloni žuti blok.
+6. Ukloni crveni blok.
+7. Ukloni tamnoplavi blok.
+8. Ukloni zeleni blok.",pospremanje
+img7.jpg,"1. Ukloni crveni blok.
+2. Ukloni narančasti blok.
+3. Ukloni žuti blok.
+4. Ukloni zeleni blok.
+5. Ukloni tamnoplavi blok.
+6. Ukloni ljubičasti blok.
+7. Ukloni ružičasti blok.
+8. Ukloni svijetloplavi blok.
+9. Ukloni crveni blok.
+10. Ukloni narančasti blok.
+11. Ukloni žuti blok.",pospremanje
+img8.jpg,"1. Ukloni zeleni blok.
+2. Ukloni plavi blok.
+3. Ukloni crveni blok.
+4. Ukloni žuti blok.
+5. Ukloni narančasti blok.
+6. Ukloni plavi blok.",pospremanje
+img9.jpg,"1. Ukloni žuti blok.
+2. Ukloni crveni blok.
+3. Ukloni zeleni blok.",pospremanje
+img10.jpg,"",pospremanje
+img11.jpg,"1. Ukloni zeleni blok.
+2. Ukloni žuti blok.
+3. Ukloni crveni blok.",pospremanje
+img12.jpg,"1. Ukloni crveni blok.
+2. Ukloni zeleni blok.
+3. Ukloni plavi blok.
+4. Ukloni crveni blok.
+5. Ukloni zeleni blok.",pospremanje
+img13.jpg,"1. Ukloni žuti blok.
+2. Ukloni zeleni blok.
+3. Ukloni žuti blok.
+4. Ukloni zeleni blok.
+5. Ukloni žuti blok.
+6. Ukloni zeleni blok.",pospremanje
+img14.jpg,"1. Ukloni žuti blok.
+2. Ukloni crveni blok.
+3. Ukloni zeleni blok.
+4. Ukloni žuti blok.
+5. Ukloni plavi blok.",pospremanje
+img15.jpg,"1. Ukloni zeleni blok.
+2. Ukloni žuti blok.
+3. Ukloni narančasti blok.
+4. Ukloni ljubičasti blok.
+5. Ukloni plavi blok.
+6. Ukloni crveni blok.",pospremanje
+img16.jpg,"1. Ukloni crveni blok.
+2. Ukloni plavi blok.
+3. Ukloni zeleni blok.
+4. Ukloni ružičasti blok.
+5. Ukloni narančasti blok.
+6. Ukloni ljubičasti blok.
+7. Ukloni svijetloplavi blok.
+8. Ukloni zeleni blok.
+9. Ukloni žuti blok.",pospremanje
+img31.jpg,"1. Premjesti crnu lampu (1 osoba).
+2. Premjesti sivi stolac (1 osoba).
+3. Premjesti ružičasti stolac (1 osoba).
+4. Premjesti sivi stolac (1 osoba).
+5. Premjesti sivi stolac (1 osoba).
+6. Premjesti crni stol (2 osobe).
+7. Premjesti bijelu biljku (2 osobe).",prijenos
+img17.webp,"1. Ukloni ružičasti blok.
+2. Ukloni ljubičasti blok.
+3. Ukloni plavi blok.
+4. Ukloni zeleni blok.
+5. Ukloni tamnoplavi blok.
+6. Ukloni svijetloplavi blok.
+7. Ukloni žuti blok.
+8. Ukloni zeleni blok.
+9. Ukloni narančasti blok.
+10. Ukloni crveni blok.",pospremanje
+img18.jpg,"1. UKloni ružičasti blok.
+2. Ukloni crveni blok.
+3. Ukloni plavi blok.
+4. Ukloni zeleni blok.
+5. Ukloni žuti blok.
+6. Ukloni ljubičasti blok.
+7. Ukloni narančasti blok.",pospremanje
+img19.png,"1. Ukloni zeleni blok.
+2. Ukloni crveni blok.
+3. Ukloni žuti blok.
+4. Ukloni crveni blok.",pospremanje
+img20.webp,"1. Ukloni zeleni blok.
+2. Ukloni žuti blok.
+3. Ukloni zeleni blok.
+4. Ukloni plavi blok.
+5. Ukloni narančasti blok.
+6. Ukloni plavi blok.
+7. Ukloni ružičasti blok.",pospremanje
+img21.jpg,"1. Ukloni zeleni blok.
+2. Ukloni plavi blok.
+3. Ukloni žuti blok.
+4. Ukloni crveni blok.
+5. Ukloni žuti blok.
+6. Ukloni zeleni blok.
+7. Ukloni crveni blok.
+8. Ukloni plavi blok.",pospremanje
+img22.webp,"1. Ukloni žuti blok.
+2. Ukloni ljubičasti blok.
+3. Ukloni plavi blok.
+4. Ukloni zeleni blok.
+5. Ukloni crveni blok.",pospremanje
+img23.jpg,"1. Ukloni zeleni blok.
+2. Ukloni plavi blok.
+3. Ukloni žuti blok.
+4. Ukloni narančasti blok.",pospremanje
+img26.jpg,"1. Ukloni plavi blok.
+2. Ukloni žuti blok.
+3. Ukloni zeleni blok.
+4. Ukloni crveni blok.",pospremanje
+img27.jpg,"1. Ukloni crveni blok.
+2. Ukloni ljubičasti blok.
+3. Ukloni plavi blok.
+4. Ukloni zeleni blok.
+5. Ukloni žuti blok.",pospremanje
+img28.jpg,"1. Ukloni plavi blok.
+2. Ukloni crveni blok.
+3. Ukloni zeleni blok.
+4. Ukloni žuti blok.",pospremanje
+img29.jpg,"1. Ukloni crveni blok.
+2. Ukloni zeleni blok.
+3. Ukloni plavi mali blok.
+4. Ukloni žuti blok.
+5. Ukloni žuti blok.
+6. Ukloni plavi blok.",pospremanje
+img30.jpg,"1. Ukloni zeleni blok.
+2. Ukloni plavi blok.
+3. Ukloni žuti blok.",pospremanje
+img32.jpg,"1. Premjesti crni kauč (2 osobe).
+2. Premjesti bijelu vazu (1 osoba).
+3. Premjesti slike (1 osoba).",prijenos
+img1.jpg,"1. razina: Postavi crveni blok. Postavi zeleni blok.
+2. razina: Postavi plavi blok.",spajanje
+img2.jpg,"1. razina: Postavi ružičasti blok. Postavi plavi blok. Postavi žuti blok.
+2. razina: Postavi zeleni blok.
+3. razina: Postavi ružičasti blok.",spajanje
+img3.png,"1. razina: Postavi žuti blok.
+2. razina: Postavi plavi blok.
+3. razina: Postavi zeleni blok.",spajanje
+img4.jpeg,"1. razina: Postavi smeđi blok. Postavi zeleni blok.
+2. razina: Postavi plavi blok vodoravno.
+3. razina: Postavi svijetloplavi blok okomito.",spajanje
+img5.jpg,"1. razina: Postavi zeleni blok.
+2. razina: Postavi ružičasti blok.
+3. razina: Postavi plavi blok.",spajanje
+img6.jpg,"1. razina: Postavi crveni blok. Postavi zeleni blok. Postavi tamnoplavi blok.
+2. razina: Postavi svijetloplavi blok. Postavi žuti blok.
+3. razina: Postavi ljubičasti blok.
+4. razina: Postavi narančasti blok.",spajanje
+img7.jpg,"1. razina: Postavi ružičasti blok. Postavi svijetloplavi blok. Postavi crveni blok. Postavi narančasti blok. Postavi žuti blok.
+2. razina: Postavi zeleni blok. Postavi plavi blok. Postavi ljubičasti blok.
+3. razina: Postavi narančasti blok. Postavi žuti blok.
+4. razina: Postavi crveni blok.",spajanje
+img9.jpg,"1. razina: Postavi crveni blok. Postavi zeleni blok.
+2. razina: Postavi žuti blok.",spajanje
+img11.jpg,"1. razina: Postavi žuti blok. Postavi crveni blok.
+2. razina: Postavi zeleni blok.",spajanje
+img14.jpg,"1. razina: Postavi plavi blok.
+2. razina: Postavi žuti blok.
+3. razina: Postavi zeleni blok.
+4. razina: Postavi crveni blok.
+5. razina: Postavi žuti blok.",spajanje
+img19.png,"1. razina: Postavi crveni blok.
+2. razina: Postavi žuti blok pomaknut ulijevo.
+3. razina: Postavi crveni blok pomaknut ulijevo.
+4. razina: postavi zeleni blok pomaknut udesno.",spajanje
+img20.webp,"1. razina: Postavi ružičasti blok.
+2. razina: Postavi plavi blok pomaknut udesno.
+3. razina: Postavi narančasti blok.
+4. razina: Postavi plavi blok. pomaknut ulijevo.
+5. razina: Postavi zeleni blok pomaknut ulijevo.
+6. razina: Postavi žuti blok.
+7. razina: Postavi zeleni blok pomaknut udesno.",spajanje
+img21.jpg,"1. razina: Postavi plavi blok.
+2. razina: Postavi crveni blok. Postavi zeleni blok.
+3.razina: Postavi žuti blok.
+4. razina: Postavi crveni blok pomaknut ulijevo.
+5. razina: Postavi žuti blok pomaknut ulijevo.
+6. razina: Postavi plavi blok.
+7. razina: Postavi zeleni blok.",spajanje
+img22.webp,"1. razina: Postavi crveni blok. 
+2. razina: Postavi zeleni blok pomaknut udesno.
+3. razina: Postavi plavi blok pomaknut ulijevo.
+4. razina: Postavi ljubičasti blok pomaknut udesno.
+5. razina: Postavi žuti blok pomaknut ulijevo.",spajanje
+img23.jpg,"1. razina: Postavi crveni blok. 
+2. razina: Postavi žuti blok.
+3. razina: Postavi plavi blok pomaknut udesno.
+4. razina: Postavi zeleni blok pomaknut ulijevo.",spajanje
+img27.jpg,"1. razina: Postavi žuti blok.
+2. razina: Postavi zeleni blok pomaknut udesno.
+3. razina: Postavi plavi blok pomaknut udesno.
+4. razina: Postavi ljubičasti blok pomaknut udesno.
+5. razina: Postavi crveni blok pomaknut udesno.",spajanje
+img30.jpg,"",spajanje
+
+
+
