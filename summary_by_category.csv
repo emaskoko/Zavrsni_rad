@@ -1,0 +1,4 @@
+category,samples,avg_precision,avg_recall,avg_f1,avg_lcs,avg_order,avg_duration
+pospremanje,27,0.871,0.876,0.872,0.762,0.732,0.926,3.128
+spajanje,18,0.458,0.495,0.473,0.387,0.333,0.611,2.520
+prijenos,2,0.000,0.000,0.000,0.000,0.000,0.000,6.241
